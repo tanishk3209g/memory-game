@@ -15,6 +15,7 @@ A simple and interactive **Memory Game** built using HTML, CSS, and JavaScript. 
 ## 📹 Demo
 
 [demo video](live_demo.mp4)
+[demo pic](game_pic.png)
 
 ## ✨ Technologies Used
 
