@@ -7,14 +7,14 @@ A simple and interactive **Memory Game** built using HTML, CSS, and JavaScript. 
 ## 🎮 Features
 
 - Flip and match cards  
-- Track your score  
+- Track your live score  
 - Game reset functionality  
 - Added sound effects 
 
 
 ## 📹 Demo
 
-You can also view a [demo video](./demo.mp4) or GIF above.
+[demo video](live_demo.mp4)
 
 ## ✨ Technologies Used
 
